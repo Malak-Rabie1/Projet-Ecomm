@@ -3,3 +3,7 @@ h1{
     text-shadow: 1px 1px 8px blueviolet;
     font-weight: 100px;
 }
+
+img{
+    margin-left: 50%;
+}
